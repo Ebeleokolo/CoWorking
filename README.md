@@ -32,5 +32,6 @@ npm install lucide-react
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
+switch default branch to web3branch
 # Run the project 
 npm run dev
